@@ -1,4 +1,6 @@
 # EX 3 : Circle Drawing Algorithm
+### NAME: U MAGESHKUMAR
+### REG NO: 212224240085
 
 **AIM :**
 
